@@ -1,10 +1,10 @@
-Project: Real-Time AI Virtual Calculator with Fingertip Interaction
+##Project: Real-Time AI Virtual Calculator with Fingertip Interaction
 
-📌 Overview
+📌 #Overview
 
 This project is a real-time, touchless virtual calculator that uses hand gesture recognition for interaction. Built using Python, OpenCV, and MediaPipe, it allows users to perform basic arithmetic operations simply by pointing and pinching their fingers over a virtual calculator interface displayed via webcam.
 
-🎯 Features
+🎯 #Features
 
 Fingertip-based button selection using index finger and thumb pinch
 
@@ -14,7 +14,7 @@ Supports digits (0–9), basic operators (+, -, *, /), clear, and evaluate
 
 Transparent UI over live webcam feed
 
-🛠️ Technologies Used
+🛠️ #Technologies Used
 
 Python
 
@@ -22,7 +22,7 @@ OpenCV
 
 MediaPipe
 
-🚀 How to Run
+🚀 #How to Run
 
 Clone this repository and navigate to the project folder.
 
