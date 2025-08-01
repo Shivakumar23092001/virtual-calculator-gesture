@@ -1,4 +1,4 @@
-## Project: Real-Time AI Virtual Calculator with Fingertip Interaction
+## Real-Time AI Virtual Calculator with Fingertip Interaction
 
 📌 *Overview*
 
