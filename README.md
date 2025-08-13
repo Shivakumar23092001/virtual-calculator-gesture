@@ -31,3 +31,7 @@ Run the calculator:
 python virtual_calculator.py
 
 Use your index finger to hover and pinch with your thumb to "click" a button
+
+
+https://github.com/user-attachments/assets/d070db11-737c-48b7-afd2-d82113454e40
+
